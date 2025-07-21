@@ -4,7 +4,7 @@ ComepeteAI is an intelligent assistant that tracks and summarizes competitor pro
 
 Built as part of AI Agent Hackathon organized by Product Space, it automates the process of monitoring feature launches, changelogs, and key strategic shifts by parsing public product pages and presenting actionable insights.
 
-🔗 **Live Agent**: [Try ComepeteAI](http://tiny.cc/f5yp001)
+🔗 **Live Agent**: [Try ComepeteAI](https://product-pulse-ai-monitor.lovable.app/)
 
 ---
 
