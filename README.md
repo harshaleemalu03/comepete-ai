@@ -23,12 +23,6 @@ Product and marketing teams often miss or delay responding to competitor updates
 
 ---
 
-## 🖼️ Screenshots
-
-### 🧠 ComepeteAI in Action
-
-![ComepeteAI Demo](assets/comepeteai-demo.png)
-
 ## 📌 Note
 
 This project was built using a visual AI agent builder, with no manual coding involved. The repo serves as documentation and demo support for submission.
